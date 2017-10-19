@@ -1,4 +1,4 @@
-# Adaptive-Median-Filter
+# Adaptive Median Filter
 This is a source code in Matlab for Adaptive Median Filter. There is a main function whose name is AdaptiveFilter with two parameters. 
 The first one is image address and the second one is filter size.
 
